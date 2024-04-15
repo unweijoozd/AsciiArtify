@@ -34,7 +34,7 @@ AsciiArtify is a startup dedicated to creating a new software product that uses 
 
 ### k3d
 
-![k3d](./k3d.gif)
+![k3d](./img/k3d.gif)
 
 
 ## Conclusion
